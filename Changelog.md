@@ -6,6 +6,7 @@ Changelog
   * 3.0.0
   * FEATURE Rename vendor
   * FEATURE Add composer
+  * Release made possible by [Dr. Beckmann](https://www.dr-beckmann.de/)
 
 2017-12-13 Lidia Demin <demin@webit.de>
 
