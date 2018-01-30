@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2018-01-30 Dan Untenzu <untenzu@webit.de>
+
+  * 3.0.0
+  * FEATURE Rename vendor
+  * FEATURE Add composer
+
 2017-12-13 Lidia Demin <demin@webit.de>
 
   * 2.0.0
