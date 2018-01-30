@@ -1,6 +1,6 @@
 <?php
 
-namespace Webit\RealurlSuomiurl\Overrides;
+namespace WebitDe\RealurlSuomiurl\Overrides;
 
 /***************************************************************
  *

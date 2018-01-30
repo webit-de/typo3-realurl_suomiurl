@@ -4,5 +4,5 @@ if (!defined('TYPO3_MODE')) {
 }
 
 $GLOBALS['TYPO3_CONF_VARS']['SYS']['Objects']['DmitryDulepov\\Realurl\\Utility'] = [
-    'className' => 'Webit\\RealurlSuomiurl\\Overrides\\Utility'
+    'className' => 'WebitDe\\RealurlSuomiurl\\Overrides\\Utility'
 ];
