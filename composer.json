@@ -10,7 +10,6 @@
     "dmitryd/typo3-realurl": "^2.1"
   },
   "replace": {
-    "realurl_suomiurl": "self.version",
     "typo3-ter/realurl-suomiurl": "self.version"
   }
 }
