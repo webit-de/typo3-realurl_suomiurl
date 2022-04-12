@@ -1,6 +1,9 @@
 RealUrl for Suomi
 =================
 
+**💥 EOL - This repository is not maintained anymore!**
+*→ Use TYPO3 core slugs instead of RealUrl now*
+
 This TYPO3 CMS extension adds a hook for special conversion of suomi characters in URL segments (Finland).
 
 [![Packagist](https://img.shields.io/packagist/v/webit-de/realurl-suomiurl.svg)](https://packagist.org/packages/webit-de/realurl-suomiurl/)
